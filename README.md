@@ -25,22 +25,22 @@ I went through five tasks covering different areas: creating a digital awareness
 ## Repository Structure
 
 ```
-digital-literacy-project/
+digital literacy
 │
 ├── README.md
 ├── Project_Report.docx
 │
-├── task-1-presentation/
+├── TASK-1 (presentation folder)
 │   ├── Purple Modern Technology Infographic.png
 │   └── project report.docx
 │
-├── task-2-portfolio/
+├── TASK-2 (portfolio)
 │   ├── GitHub_profile.png
 │   ├── Linkedin_profile.png
 │   ├── ResearchGate_profile.png
 │   └── project report.docx
 │
-├── task-3-platforms/
+├── TASK-3 (platforms)
 │   ├── HackerRank_Profile.png
 │   ├── HackerRank_Challenge.png
 │   ├── GoogleForm_2.png
@@ -48,12 +48,12 @@ digital-literacy-project/
 │   ├── GoogleForm_Response.png
 │   └──project report.docx
 │
-├── task-4-email-etiquette/
+├── TASK-4 (email etiquette)
 │   ├── email drafting.docx
 │   ├── social-media-checklist.md
 │   └── project report.docx
 │
-└── task-5-cybercrime/
+└── TASK-5 (Cybercrime)
     ├── casestudy.pdf
     ├── prevention-checklist.md
     └── project report.docx
