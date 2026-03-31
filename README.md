@@ -128,4 +128,4 @@ If you or anyone you know has been targeted:
 
 ## Tools Used
 
-Canva · GitHub · LinkedIn · Kaggle · HackerRank · Google Forms · Google Sheets · MS Word
+Canva · GitHub · LinkedIn · ResearchGate · HackerRank · Google Forms · Google Sheets · MS Word
