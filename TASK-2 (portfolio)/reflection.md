@@ -2,9 +2,9 @@
 
 ## Platforms Set Up
 
-1. **GitHub** (github.com/sudish-666)
-2. **LinkedIn** (linkedin.com/in/sudish-agarwal-5189b1398)
-3. **Kaggle** (kaggle.com/sudishagarwal)
+1. **GitHub** [(github.com/aditya25bce10707-lab)] 
+2. **LinkedIn** (linkedin.com/in/aditya-mishra-8449603ba/)
+3. **ResearchGate** (researchgate.net/profile/Aditya-Mishra-103?ev=hdr_xprf)
 
 ## What Each Platform Is Used For
 
@@ -18,10 +18,7 @@ by employers, recruiters, and students. It works like a
 digital resume and helps in finding internships, jobs, 
 and industry connections.
 
-**Kaggle** is a data science and machine learning 
-community platform. It offers datasets, competitions, 
-and notebooks. Since I am interested in AI/ML, Kaggle 
-will help me practice and showcase data skills.
+**ResearchGate** is a premier professional social networking site for scientists and researchers to connect, collaborate, and share their work, boasting over 25 million members globally. Founded in 2008, it acts as an open-access repository for academic publications, allowing users to find research, share papers, and ask.
 
 ## How I Plan to Use Them Over the Next Four Years
 
@@ -29,8 +26,7 @@ will help me practice and showcase data skills.
   open source contributions semester by semester
 - **LinkedIn** – build connections, apply for internships 
   from the 2nd year onwards, get recommendations
-- **Kaggle** – participate in beginner competitions, 
-  earn certificates, and build an ML portfolio
+- **ResearchGate** – a professional social networking site for scientists and researchers to share publications, access open-access research, and collaborate
 
 These three platforms together form the foundation of 
 My professional digital identity as a CSE student.
