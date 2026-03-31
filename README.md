@@ -26,37 +26,37 @@ I went through five tasks covering different areas: creating a digital awareness
 
 ```
 digital literacy
-│
-├── README.md
-├── Project_Report.docx
-│
 ├── TASK-1 (presentation folder)
 │   ├── Purple Modern Technology Infographic.png
-│   └── project report.docx
+│   └── description.md
 │
 ├── TASK-2 (portfolio)
 │   ├── GitHub_profile.png
 │   ├── Linkedin_profile.png
 │   ├── ResearchGate_profile.png
-│   └── project report.docx
+│   └── reflection.md
 │
 ├── TASK-3 (platforms)
-│   ├── HackerRank_Profile.png
-│   ├── HackerRank_Challenge.png
-│   ├── GoogleForm_2.png
 │   ├── GoogleForm_1.png
+│   ├── GoogleForm_2.png
 │   ├── GoogleForm_Response.png
-│   └──project report.docx
+│   ├── HackerRank_Challenge.png
+│   ├── HackerRank_Profile.png
+│   └── reflection.md
 │
 ├── TASK-4 (email etiquette)
 │   ├── email drafting.docx
-│   ├── social-media-checklist.md
-│   └── project report.docx
+│   ├── reflection.md
+│   └──  social-media-checklist.md
 │
 └── TASK-5 (Cybercrime)
-    ├── casestudy.pdf
-    ├── prevention-checklist.md
-    └── project report.docx
+│   ├── casestudy.pdf
+│   ├── prevention-checklist.md
+│   └── reflection.md
+│
+├── report/
+│   └──Project_report.docx
+└──README.md
 ```
 
 ---
