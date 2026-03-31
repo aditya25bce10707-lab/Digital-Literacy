@@ -47,7 +47,7 @@ digital literacy
 ├── TASK-4 (email etiquette)
 │   ├── email drafting.docx
 │   ├── reflection.md
-│   └──  social-media-checklist.md
+│   └── social-media-checklist.md
 │
 └── TASK-5 (Cybercrime)
 │   ├── casestudy.pdf
@@ -55,7 +55,7 @@ digital literacy
 │   └── reflection.md
 │
 ├── report/
-│   └──Project_report.docx
+│   └── Project_report.docx
 └──README.md
 ```
 
