@@ -23,11 +23,11 @@ using Google Forms. The quiz is designed to test basic
 digital literacy knowledge among first-year students.
 
 ### Questions included:
-1. What is digital literacy? (Short answer)
-2. Password Security Which of the following is considered the most secure method for managing multiple complex passwords? (MCQ)
-3. List two characteristics of a strong password. (Short answere)
-4. Source Verification: Which of the following are reliable ways to verify the credibility of an online news article? (Select all that apply)  (MCQ)
-5. Digital Footprint: Which of the following best describes your "digital footprint"? (MCQ)
+1. What does "digital literacy" mean? (MCQ)
+2. Which of the following is a safe internet practice? (MCQ)
+3. Name one platform used for professional networking by students and working professionals.   (Short answer)
+4. What should you do if you receive a suspicious link via WhatsApp?  (MCQ)
+5.  What is the National Cyber Crime Helpline number in India? (Short answer)
 
 The form is linked to a Google Sheet that automatically 
 collects responses, which is also screenshotted in this folder.
