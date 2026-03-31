@@ -6,12 +6,8 @@
 
 **Challenge Completed:** Arithmetic Operators
 
-I created an account on HackerRank and completed the 
-"Arithmetic Operators" beginner challenge. The problem required 
-reading two integers and printing their sum — a simple 
-but effective introduction to how competitive programming 
-platforms work. After submitting the correct solution, 
-I received a completion confirmation, which is included 
+I created an account on HackerRank and completed the "Arithmetic Operators" beginner challenge. The problem required reading two integers and printing their sum — a simple 
+but effective introduction to how competitive programming platforms work. After submitting the correct solution, I received a completion confirmation, which is included 
 as a screenshot in this folder.
 
 ## Part B – Google Workspace Collaboration
